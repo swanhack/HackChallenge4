@@ -6,7 +6,7 @@ This week you are tasked with trying to implement an edge detector. In the image
 ## Where to Start
 - Try loading an image in the programming language of your choice. Change 1 pixels colour and then save the image.
 - Gray-scaling your image before performing edge detection will make things easier.
-- A really simple edge detector can be done with `if` statements. You want to check if a pixels colour is brighter or darker then it's neighbours.
+- A really simple edge detector can be done with `if` statements. You want to check if a pixels colour is brighter or darker then its neighbours.
 - Look up more complex implementations: https://www.wikiwand.com/en/Edge_detection
 
 ## Extra ideas
